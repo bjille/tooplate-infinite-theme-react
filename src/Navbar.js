@@ -1,6 +1,6 @@
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-md tm-navbar" id="tmNav">
+        <nav className="navbar navbar-expand-lg tm-navbar" id="tmNav">
             <div className="container">
                 <div className="tm-next">
                     <a href="#infinite" className="navbar-brand">Infinite Loop</a>
