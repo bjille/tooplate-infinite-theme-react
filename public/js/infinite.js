@@ -1,4 +1,4 @@
-$window.on("load", function () {
+$(window).on("load", function () {
   function getOffSet() {
     var _offset = 450;
     var windowHeight = window.innerHeight;
