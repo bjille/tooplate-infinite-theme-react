@@ -1,4 +1,4 @@
-window.onload = function () {
+$window.on("load", function () {
   function getOffSet() {
     var _offset = 450;
     var windowHeight = window.innerHeight;
@@ -191,4 +191,4 @@ window.onload = function () {
       ],
     });
   });
-};
+});

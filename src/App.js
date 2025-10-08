@@ -1,6 +1,5 @@
 import logo from "./assets/img/econcepts-logo.svg";
 import "./App.scss";
-import NavbarReact from "./NavbarReact";
 import Navbar from "./Navbar";
 import WhatWeDo from "./whatwedo";
 import Testimonials from "./testimonials";
@@ -18,8 +17,7 @@ function App() {
           <div className="tm-hero-text-container-inner">
             <h2 className="tm-hero-title">Infinite Loop</h2>
             <p className="tm-hero-subtitle">
-              Bootstrap 4.0 Parallax Theme
-              Free HTML Template by TOOPLATE
+              Bootstrap 4.0 Parallax Theme Free HTML Template by TOOPLATE
             </p>
           </div>
         </div>
@@ -34,7 +32,7 @@ function App() {
       <Testimonials />
       <Gallery />
       <Contact />
-    </div >
+    </div>
   );
 }
 
